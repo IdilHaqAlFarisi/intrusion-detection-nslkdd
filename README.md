@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Final Project - Kecerdasan Artifisial (Artificial Intelligence)**
 
