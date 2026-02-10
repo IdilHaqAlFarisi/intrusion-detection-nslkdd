@@ -7,7 +7,7 @@
 
 Implementasi sistem deteksi intrusi jaringan (Intrusion Detection System/IDS) menggunakan algoritma Decision Tree dengan optimasi Pre-Pruning pada dataset NSL-KDD.
 
----
+
 
 ## 📋 Deskripsi Project
 
