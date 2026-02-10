@@ -190,7 +190,7 @@ Untuk pertanyaan atau diskusi lebih lanjut, silakan hubungi melalui repository i
 
 ## 📄 Lisensi
 
-Project ini dibuat untuk keperluan akademik - Final Project Kecerdasan Artifisial.
+Project ini dibuat untuk keperluan Pembelajaran - Project Kecerdasan Artifisial.
 
 ---
 
