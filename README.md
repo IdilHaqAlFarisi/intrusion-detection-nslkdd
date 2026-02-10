@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange.svg)](https://scikit-learn.org/)
 
-**Final Project - Kecerdasan Artifisial (Artificial Intelligence)**
+**Project - Kecerdasan Artifisial (Artificial Intelligence)**
 
 Implementasi sistem deteksi intrusi jaringan (Intrusion Detection System/IDS) menggunakan algoritma Decision Tree dengan optimasi Pre-Pruning pada dataset NSL-KDD.
 
@@ -20,15 +20,7 @@ Project ini mengimplementasikan sistem deteksi intrusi jaringan menggunakan algo
 - ✅ **Visualization**: Visualisasi struktur Decision Tree dan analisis feature importance
 - ✅ **Model Persistence**: Penyimpanan model terlatih untuk deployment
 
----
 
-## 👥 Anggota Kelompok
-
-1. **Idil Haq Al Farisi** - 1203230070
-2. **Ahmad Pasha Maurinho** - 1203230114
-3. **Yonathan Hari Dharmawan** - 1203230050
-
----
 
 ## 📊 Dataset: NSL-KDD
 
