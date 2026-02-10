@@ -64,14 +64,14 @@ pip install -r requirements.txt
 
 3. **Jalankan Jupyter Notebook:**
 ```bash
-jupyter notebook TUBES_KA_OFFLINE.ipynb
+jupyter notebook IDS_Offline.ipynb
 ```
 
 ---
 
 ## 💻 Cara Penggunaan
 
-1. **Buka notebook**: `TUBES_KA_OFFLINE.ipynb`
+1. **Buka notebook**: `IDS_Offline.ipynb`
 2. **Jalankan semua cell secara berurutan**: Cell → Run All
 3. Notebook akan secara otomatis:
    - Install semua library yang dibutuhkan
@@ -109,7 +109,7 @@ jupyter notebook TUBES_KA_OFFLINE.ipynb
 ```
 intrusion-detection-nslkdd/
 │
-├── TUBES_KA_OFFLINE.ipynb          # Main notebook - Full pipeline IDS
+├── IDS_Offline.ipynb                # Main notebook - Full pipeline IDS
 ├── README.md                        # Dokumentasi project
 ├── requirements.txt                 # Python dependencies
 │
@@ -184,7 +184,7 @@ Project ini mencakup analisis mendalam mengenai:
 
 ## 📧 Kontak
 
-Untuk pertanyaan atau diskusi lebih lanjut, silakan hubungi anggota tim melalui repository issues atau pull requests.
+Untuk pertanyaan atau diskusi lebih lanjut, silakan hubungi melalui repository issues atau pull requests.
 
 ---
 
